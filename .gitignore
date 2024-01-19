@@ -1,0 +1,15 @@
+#
+# .gitignore
+#
+
+## BACKUP & TEMPORARY FILES ##
+
+*~
+*.bak
+*.tmp
+*.swp
+
+
+## IDE-related FILES ##
+
+.vscode/
